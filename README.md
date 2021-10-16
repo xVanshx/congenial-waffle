@@ -18,3 +18,4 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 ## Rules :fire:
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2021 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
 
+## I can Contribute in this by teaching people python from basics 
